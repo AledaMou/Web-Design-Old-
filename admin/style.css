@@ -1,0 +1,36 @@
+*{
+	margin:0px;
+	padding:0px;
+	outline:0px;
+	}
+
+img{
+	border:0px;
+	}
+
+.contain{
+    height: 800px;
+    width: 600px;
+    background-color: cadetblue;
+    border-width: 10px;
+    margin:50px auto;
+    padding: 50px;
+    border-radius: 10px;
+    color: aliceblue;
+    align-content: center;
+}
+
+.form-control{
+    height: 40px;
+    width: 400px;
+    border: 2px solid cadetblue;
+}
+
+.table{
+    margin: 80px 0px 0px 80px;
+    width: 80%;
+}
+.thed{
+    color: aliceblue;
+     background-color: cadetblue;
+}
